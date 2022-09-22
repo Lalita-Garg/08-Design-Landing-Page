@@ -12,7 +12,7 @@ This Project is a Simple Static Responsive webpage created by using just HTML an
 - Navbar Designing 
 - Responsive Design
 
-## Preview | [Live Link]()
+## Preview | [Live Link](https://designlanding-page.netlify.app/)
 ***
 ![ScreenShot](./screenshots/screenshot1.PNG)  ![ScreenShot](./screenshots/screenshot2.PNG)![ScreenShot](./screenshots/screenshot3.PNG)
 
