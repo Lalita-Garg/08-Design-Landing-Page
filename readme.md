@@ -1,5 +1,5 @@
 Author-Lalita Garg
-# Product Homepage  ![](	https://img.shields.io/website-up-down-green-red/http/monip.org.svg)
+# Design Landing Page  ![](	https://img.shields.io/website-up-down-green-red/http/monip.org.svg)
 
 This Project is a Simple Static Responsive webpage created by using just HTML and  CSS.
 
